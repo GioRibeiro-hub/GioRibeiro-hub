@@ -14,4 +14,8 @@ Meu nome é Giovanni, sejam bem-vindos ao meu perfil e fiquem à vontade!
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
   
-![Snake animation](https://github.com/GioRibeiro-hub)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GioRibeiro-hub/GioRibeiro-hub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GioRibeiro-hub/GioRibeiro-hub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GioRibeiro-hub/GioRibeiro-hub/output/github-contribution-grid-snake.svg">
+</picture>

@@ -19,13 +19,9 @@ Meu nome é Giovanni, sejam bem-vindos ao meu perfil e fiquem à vontade! Atualm
 </picture>
 
 
-<div>
-
+<div align="center">
 
 ![image](https://github.com/user-attachments/assets/00233e4c-907b-41c6-b93c-55333daa6176)
-
-
-
   
 </div>
 

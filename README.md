@@ -1,5 +1,5 @@
-### Olá a Todos!!
-# Meu nome é Giovanni, sejam bem-vindos ao meu perfil e fiquem à vontade! Atualmente estou cursando ADS e uso aqui para salvar meus projetos e estudos!
+## Olá a Todos!!
+Meu nome é Giovanni, sejam bem-vindos ao meu perfil e fiquem à vontade! Atualmente estou cursando ADS e uso aqui para salvar meus projetos e estudos!
 
 
 ![Giovanni Ribeiro's stats](https://github-readme-stats.vercel.app/api?username=GioRibeiro-hub&show_icons=true&include_all_commits=true&theme=dark&count_privade=true)

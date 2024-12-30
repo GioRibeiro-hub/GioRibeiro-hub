@@ -1,4 +1,4 @@
-## Olá a Todos!!
+## Olá a Todos!! ![image](https://github.com/user-
 Meu nome é Giovanni, sejam bem-vindos ao meu perfil e fiquem à vontade! Atualmente estou cursando ADS e uso aqui para salvar meus projetos e estudos!
 
 
@@ -17,3 +17,15 @@ Meu nome é Giovanni, sejam bem-vindos ao meu perfil e fiquem à vontade! Atualm
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GioRibeiro-hub/GioRibeiro-hub/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GioRibeiro-hub/GioRibeiro-hub/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<div>
+
+
+![image](https://github.com/user-attachments/assets/00233e4c-907b-41c6-b93c-55333daa6176)
+
+
+
+  
+</div>
+

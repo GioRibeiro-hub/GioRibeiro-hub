@@ -19,9 +19,3 @@ Meu nome é Giovanni, sejam bem-vindos ao meu perfil e fiquem à vontade! Atualm
 </picture>
 
 
-<div align="center">
-
- <img alt="Rafa-Js" height="300" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" />
-          
-</div>
-

@@ -3,7 +3,7 @@ Meu nome é Giovanni, sejam bem-vindos ao meu perfil e fiquem à vontade! Atualm
 
 
 ![Giovanni Ribeiro's stats](https://github-readme-stats.vercel.app/api?username=GioRibeiro-hub&show_icons=true&include_all_commits=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GioRibeiro-hub&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GioRibeiro-hub&layout=compact&langs_count=10&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
